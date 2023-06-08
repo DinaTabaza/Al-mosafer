@@ -1,5 +1,4 @@
 
-//Lesson 12+13+14
 import static org.testng.Assert.assertEquals;
 
 import java.time.Duration;
